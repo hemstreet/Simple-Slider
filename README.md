@@ -1,3 +1,5 @@
+Slider with clickable navigation
+===
 This is an example of a basic unstyled slider. Ensure that the data-slider-nav-id attributes line up as well as te data-slider-nav-key to the appropriate slide.
 
 ```
@@ -24,6 +26,9 @@ This is an example of a basic unstyled slider. Ensure that the data-slider-nav-i
 </div>
 ```
 
+Slider with directional arrows
+===
+Example 
 If you want arrow navigation add in the following anywhere in the code, note that it is not inside the same block as our other slider-nav content.
 `You can also remove the slider-nav with the clickable links ( not the prev / next ) to have just the arrow navigation`
 ```
