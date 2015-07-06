@@ -1,3 +1,5 @@
+[View Demo](http://htmlpreview.github.io/?https://github.com/hemstreet/Simple-Slider/blob/master/index.html)
+
 Slider with clickable navigation
 ===
 This is an example of a basic unstyled slider. Ensure that the data-slider-nav-id attributes line up as well as te data-slider-nav-key to the appropriate slide.
