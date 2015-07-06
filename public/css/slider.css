@@ -10,10 +10,3 @@
 .slider-content .button-container {
   text-align: center;
 }
-.slider-progress-bar {
-  position: relative;
-  width: 0;
-  clear: both;
-  background: #9fb94a;
-  height: 5px;
-}
